@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-3D-Procedural-Generation-Webgl/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Procedural-Generation-Webgl?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Procedural-Generation-Webgl/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Procedural-Generation-Webgl?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Procedural-Generation-Webgl/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-3D-Procedural-Generation-Webgl?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Procedural-Generation-Webgl/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -71,7 +71,7 @@ The table below lists leading SaaS and cloud-hosted platforms supporting 3D proc
 
 The following curated open-source repositories provide the building blocks for procedural 3D meshes, constraint solvers, noise algorithms, and WebGL/WebGPU graphics. 
 
-Repositories are sorted by **GitHub Star Count (descending)**. Every repository title includes a social star badge linking directly to its stargazer community.
+Repositories are sorted by **GitHub Stars_Count (descending)**. Every repository title includes a social Stars_Badge linking directly to its stargazer community.
 
 ---
 
